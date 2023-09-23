@@ -3,10 +3,75 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Weather_App_Mobile_Hybrid.WeatherPage"
              Title="WeatherPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <Grid RowDefinitions="Auto,Auto,Auto,Auto"
+          RowSpacing="20">
+        <StackLayout Grid Row="0" Margin="20,20,20,0", 
+                     Orientation="Horizontal">
+            <Frame Padding="10"
+                   CornerRadius="35"
+                   HasShadow="True"
+                   BorderColor="LightGray">
+                <Label Text="Your Location"
+                       FontSize="De"fault" /> 
+            </Frame>
+                <ImageButton Source="searchweather.jfif" 
+                             HeightRequest="30"
+                             WidthRequest="30" 
+                             HorizontalOptions="EndAndExpand"/>
+            </StackLayout Grid.Row="1" Orientation="Vertical">
+                <Label x:Name="LblCity" 
+                       FontSize="40" 
+                       HorizontalOptions="Center"
+                       TextColor="Gray Text="Seatle" />
+                <Label x:Name="LblWeatherDescription"
+                       FontSize="Medium" 
+                       HorizontalOptions="Center"
+                       TextColor="SlateGray
+                       Text="clear sky"
+        </StackLayout>
+                    
+        <Image Grid.Row="2"
+               x:Name="ImgWeatherIcon"
+               VerticalOptions="Start"
+               HeightRequest="300"
+               WidthRequest="300"
+               Source="icon_01n.webp"
+               />
+         <Grid Grid.Row="3"
+               RomeDefinitions="Auto,Auto"
+               ColumnDefinitions="0.33*,0.33*,0.33*"
+               Margim="20">
+
+                    <Image Grid.Row="0" 
+                    Grid.Column="0" 
+                    HorizontalOptions="Center" 
+                    HeightRequest="25"
+                    Source="humidity.png"/>
+                    <Label x:Name="LblHumidity"
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    HorizontalOptions="Center"
+                    Text="88"/>
+                    <Label x:Name="LblTemperature"
+                    Grid.Row="0" 
+                    Grid.Column="1" 
+                    Grid.RowSpan="2" 
+                    HorizontalOptions="Center"
+                    FontSize="40"
+                    FontAttributes="Bold"
+                    Text="25"/>
+
+                    <Image Grid.Row="0" 
+                   Grid.Column="2" 
+                   HorizontalOptions="Center" 
+                   HeightRequest="25"
+                   Source="wind.png"/>
+                    <Label x:Name="LblWind"
+                   Grid.Row="1"
+                   Grid.Column="2"
+                   HorizontalOptions="Center"
+                   Text="88"/>
+    </Grid>
+
+    </Grid>
 </ContentPage>

@@ -62,7 +62,6 @@
 	  <None Remove="Resources\Images\ic_baseline_my_location_24.xml" />
 	  <None Remove="Resources\Images\ic_mostly_cloudy.png" />
 	  <None Remove="Resources\Images\ic_rainy_weather.png" />
-	  <None Remove="Resources\Images\ic_round_search_24.xml" />
 	  <None Remove="Resources\Images\ic_storm_weather.png" />
 	  <None Remove="Resources\Images\ic_unknown.png" />
 	  <None Remove="Resources\Images\info.png" />

@@ -706,6 +706,27 @@
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+      <PackagePath>OpenSans-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+      <PackagePath>OpenSans-Semibold.ttf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -844,15 +865,6 @@
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\atmosphere_bg.scale-100.xml">
-      <PackagePath>atmosphere_bg.scale-100.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\clear_bg.scale-100.xml">
-      <PackagePath>clear_bg.scale-100.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\clouds_bg.scale-100.xml">
-      <PackagePath>clouds_bg.scale-100.xml</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\country.scale-100.png">
       <PackagePath>country.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -870,9 +882,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\drizzle_bg.scale-100.xml">
-      <PackagePath>drizzle_bg.scale-100.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ground_level.scale-100.png">
       <PackagePath>ground_level.scale-100.png</PackagePath>
@@ -910,9 +919,6 @@
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ic_rainy_weather.scale-100.png">
       <PackagePath>ic_rainy_weather.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ic_round_search_24.scale-100.xml">
-      <PackagePath>ic_round_search_24.scale-100.xml</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ic_storm_weather.scale-100.png">
       <PackagePath>ic_storm_weather.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -931,17 +937,8 @@
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pressure.scale-100.png">
       <PackagePath>pressure.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\rain_bg.scale-100.xml">
-      <PackagePath>rain_bg.scale-100.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\rounded_search.scale-100.xml">
-      <PackagePath>rounded_search.scale-100.xml</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\searchweather.scale-100.jfif">
       <PackagePath>searchweather.scale-100.jfif</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\snow_bg.scale-100.xml">
-      <PackagePath>snow_bg.scale-100.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\sunrise.scale-100.png">
       <PackagePath>sunrise.scale-100.png</PackagePath>
@@ -951,12 +948,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\temperature.scale-100.png">
       <PackagePath>temperature.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\thunderstrom_bg.scale-100.xml">
-      <PackagePath>thunderstrom_bg.scale-100.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\unknown_bg.scale-100.xml">
-      <PackagePath>unknown_bg.scale-100.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\water.scale-100.png">
       <PackagePath>water.scale-100.png</PackagePath>
