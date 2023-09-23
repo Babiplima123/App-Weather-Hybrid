@@ -1,0 +1,1 @@
+C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid.csproj;x64

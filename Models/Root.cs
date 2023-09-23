@@ -59,7 +59,7 @@ namespace Weather_App_Mobile_Hybrid.Models
 
     public class Rain
     {
-        [JsonProperty("3h")]
+        [Newtonsoft.Json.JsonProperty("3h")]
         public double _3h { get; set; }
     }
 

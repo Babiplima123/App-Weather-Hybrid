@@ -49,14 +49,37 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
-		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	  <None Remove="Resources\Images\country.png" />
+	  <None Remove="Resources\Images\ground_level.png" />
+	  <None Remove="Resources\Images\humidity.png" />
+	  <None Remove="Resources\Images\icon_01d.png" />
+	  <None Remove="Resources\Images\icon_01n.webp" />
+	  <None Remove="Resources\Images\icon_02d.png" />
+	  <None Remove="Resources\Images\icon_02n.png" />
+	  <None Remove="Resources\Images\icon_03d.png" />
+	  <None Remove="Resources\Images\icon_09n.png" />
+	  <None Remove="Resources\Images\icon_10d.png" />
+	  <None Remove="Resources\Images\ic_baseline_my_location_24.xml" />
+	  <None Remove="Resources\Images\ic_mostly_cloudy.png" />
+	  <None Remove="Resources\Images\ic_rainy_weather.png" />
+	  <None Remove="Resources\Images\ic_round_search_24.xml" />
+	  <None Remove="Resources\Images\ic_storm_weather.png" />
+	  <None Remove="Resources\Images\ic_unknown.png" />
+	  <None Remove="Resources\Images\info.png" />
+	  <None Remove="Resources\Images\info.txt" />
+	  <None Remove="Resources\Images\no_city.png" />
+	  <None Remove="Resources\Images\pressure.png" />
+	  <None Remove="Resources\Images\searchweather.jfif" />
+	  <None Remove="Resources\Images\sunrise.png" />
+	  <None Remove="Resources\Images\sunset.png" />
+	  <None Remove="Resources\Images\temperature.png" />
+	  <None Remove="Resources\Images\water.png" />
+	  <None Remove="Resources\Images\wind.png" />
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Update="WeatherPage.xaml.cs">
-	    <DependentUpon>WeatherPage.xaml</DependentUpon>
-	  </Compile>
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 	</ItemGroup>
 
 	<ItemGroup>

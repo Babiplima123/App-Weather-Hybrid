@@ -1,11 +1,9 @@
 namespace Weather_App_Mobile_Hybrid;
 
-public partial class App : Application
+public partial class WeatherPage : ContentPage
 {
-	public App()
+	public WeatherPage()
 	{
 		InitializeComponent();
-
-			MainPage = new WeatherPage();
 	}
 }
