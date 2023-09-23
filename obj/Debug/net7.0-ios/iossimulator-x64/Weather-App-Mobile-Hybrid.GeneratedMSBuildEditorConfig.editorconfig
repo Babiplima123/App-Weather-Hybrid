@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Weather_App_Mobile_Hybrid
+build_property.ProjectDir = C:\Users\gcosta\source\repos\Weather-App-Mobile-Hybrid\Weather-App-Mobile-Hybrid\
+
+[C:/Users/gcosta/source/repos/Weather-App-Mobile-Hybrid/Weather-App-Mobile-Hybrid/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Weather_App_Mobile_Hybrid.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/gcosta/source/repos/Weather-App-Mobile-Hybrid/Weather-App-Mobile-Hybrid/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Weather_App_Mobile_Hybrid.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/gcosta/source/repos/Weather-App-Mobile-Hybrid/Weather-App-Mobile-Hybrid/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Weather_App_Mobile_Hybrid.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/gcosta/source/repos/Weather-App-Mobile-Hybrid/Weather-App-Mobile-Hybrid/WeatherPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Weather_App_Mobile_Hybrid.WeatherPage.xaml
+build_metadata.AdditionalFiles.TargetPath = WeatherPage.xaml
+build_metadata.AdditionalFiles.RelativePath = WeatherPage.xaml
